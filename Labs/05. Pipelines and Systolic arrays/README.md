@@ -14,11 +14,11 @@ RTL примера без конвейеризации:
 
 <p align="center" > <img src="./pics/slack_wo_pipeline.png"></p>
 
-RTL примера без конвейеризации:
+RTL примера без конвейеризацией:
 
 <p align="center" > <img src="./pics/rtl_w_pipeline.png"></p>
 
-Результат имплементации примера c конвейеризации:
+Результат имплементации примера c конвейеризацией:
 
 <p align="center" > <img src="./pics/slack_w_pipeline.png"></p>
 
