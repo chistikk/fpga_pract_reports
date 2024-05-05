@@ -1,2 +1,2 @@
-# fpga_pract-reports
+# fpga_pract_reports
 FPGA practicum reports
