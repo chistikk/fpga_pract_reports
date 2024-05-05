@@ -6,10 +6,17 @@
 ```verilog
 create_clock -period 10.000 -name clk_i -waveform {0.000 5.000} -add [get_ports clk_i]
 ```
+RTL примера без конвейеризации:
+
+<p align="center" > <img src="./pics/rtl_wo_pipeline.png"></p>
 
 Результат имплементации примера без конвейеризации:
 
 <p align="center" > <img src="./pics/slack_wo_pipeline.png"></p>
+
+RTL примера без конвейеризации:
+
+<p align="center" > <img src="./pics/rtl_w_pipeline.png"></p>
 
 Результат имплементации примера c конвейеризации:
 
